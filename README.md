@@ -10,3 +10,5 @@
 - VSCodeからコミット
 ## リモートリポジトリの追加
 - git remote add origin <リモートリポジトリのURL>
+## リモートリポジトリにプッシュする
+- git push -u origin master
