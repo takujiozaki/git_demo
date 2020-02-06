@@ -12,3 +12,5 @@
 - git remote add origin <リモートリポジトリのURL>
 ## リモートリポジトリにプッシュする
 - git push -u origin master
+## 追跡の対象から外す
+- .gitignore作成
