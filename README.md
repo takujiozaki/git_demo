@@ -14,3 +14,4 @@
 - git push -u origin master
 ## 追跡の対象から外す
 - .gitignore作成
+- ディレクトリごと対象から外す場合は'/env/'の様に記述
